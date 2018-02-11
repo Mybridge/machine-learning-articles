@@ -12,7 +12,7 @@ For the past month, we ranked nearly 1,400 Machine Learning articles to pick the
 #### Course of the month:
 [A) Computer Vision:](http://bit.ly/2naZ4vg) Deep Learning and Computer Vision A-Z™ — Learn OpenCV, SSD & GANs and create image recognition apps. _[11,650 recommends, 4.5/5 stars]_
 
-[B) NLP:](http://bit.ly/2E3RHNo) Beginner to Advanced for learning Natural Language Processing _[9,156 recommends, 4.5/5 stars]_
+[B) NLP:](http://bit.ly/2EkXy4i) Beginner to Advanced for learning Natural Language Processing _[3,321 recommends, 4.6/5 stars]_
 
 <br>
 
