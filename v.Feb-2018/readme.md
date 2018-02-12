@@ -5,7 +5,7 @@
 For the past month, we ranked nearly 1,400 Machine Learning articles to pick the Top 10 stories that can help advance your career (0.7% chance).
  
 * Topics in this list: Google Brain, AlphaGo, Generating Wikipedia, Matrix Calculus, Global Optimization Algorithm, Tensorflow Project Template, NLP, CheXNet
-* Also published on the [publication](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-feb-2018-cb8a4949494f)
+* Also published on the [publication](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-feb-2018-b7aabba5aba4)
 
 <br>
 
