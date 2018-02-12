@@ -11,5 +11,5 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 
 Monthly Series:
 
-* [v.Feb 2018 - Top 10 Machine Learning Aricles](v.Feb-2018)
-* v.Mar 2018 - Top 10 Machine Learning Aricles -- Coming Soon
+* [v.Feb 2018 - Top 10 Machine Learning Articles](v.Feb-2018)
+* v.Mar 2018 - Top 10 Machine Learning Articles -- Coming Soon
