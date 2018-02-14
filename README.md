@@ -9,7 +9,14 @@ Every month, about 1,000 ~ 1,500 articles, specific to Machine Learning, are com
 Also published on [Mybridge Publication](https://medium.mybridge.co)
 
 
-Monthly Series:
+## Monthly Series:
 
 * [v.Feb 2018 - Top 10 Machine Learning Articles](v.Feb-2018)
 * v.Mar 2018 - Top 10 Machine Learning Articles -- Coming Soon
+
+
+
+<br>
+
+## Other Monthly:
+* [Python Top 10](https://goo.gl/YkkWeP)
