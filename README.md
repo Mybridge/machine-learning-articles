@@ -11,8 +11,9 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 
 ## Monthly Series:
 
-* [v.Feb 2018 - Top 10 Machine Learning Articles](https://github.com/Mybridge/machine-learning-articles/blob/master/src/02-2018.md)
-* [v.Mar 2018 - Top 10 Machine Learning Articles](https://github.com/Mybridge/machine-learning-articles/blob/master/src/03-2018.md)
+* [v.Feb 2018 - Top 10 Machine Learning Articles](./src/02-2018.md)
+* [v.Mar 2018 - Top 10 Machine Learning Articles](./src/03-2018.md)
+* [v.Apr 2018 - Top 10 Machine Learning Articles](./src/04-2018.md)
 
 
 
