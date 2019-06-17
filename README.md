@@ -25,7 +25,9 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 <br>
   
 <b><2019></b>
+  
 * [v.May 2019 - Top 10 Machine Learning Articles](./src/05-2019.md)
+* [v.June 2019 - Top 10 Machine Learning Articles](./src/06-2019.md)
 
 <br>
 
